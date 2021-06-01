@@ -6,11 +6,11 @@
 - Gists
 - Comments in Issues and Pull Requests
 - Files with the .md or .markdown extension
--
-Headers
-#This is an <h1> tag
-##This is an <h2> tag
-######This is an <h6> tag
+
+ # Headers
+#This is an h1 tag
+##This is an h2 tag
+######This is an h6 tag
   
  # Ordered list
 1. Item 1
