@@ -13,11 +13,11 @@
 ######This is an h6 tag
   
  # Ordered list
-1. Item 1
+1.Item 1
  # Unordered list
 *Item 1 or + or -
- # Images
-![GitHub Logo](/images/logo.png)
+ #Images
+! [GitHub Logo] (/images/logo.png)
 
 **lightweight markup language generating html file** 
 ## **instated it use text symbol to indicate the structure of the page**
